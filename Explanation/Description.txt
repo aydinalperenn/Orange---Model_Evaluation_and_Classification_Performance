@@ -1,0 +1,4 @@
+Title: Orange - Model Evaluation and Classification Performance on Student Dataset
+
+Description:
+An Orange machine learning project focused on evaluating and comparing classification models trained on a student dataset. The workflow uses Tree, Logistic Regression, and Random Forest learners to predict student types and assess their performance with the Test and Score widget. Model accuracy and precision are analyzed through the Confusion Matrix, while the Scatter Plot visualizes the distribution of misclassified instances. This project demonstrates model comparison and error interpretation in supervised learning.
